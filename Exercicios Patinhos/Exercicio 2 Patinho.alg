@@ -1,5 +1,5 @@
 algoritmo "Exercicio 3"
-// Função :Escrever um algoritmo que gera e escreve os números ímpares entre 100 e 200.
+// Função :Em uma turma há 10 alunos. Cada aluno tem 2 notas. Um professor precisa calcular a média das duas notas de cada aluno. Crie um programa que resolve este problema.
 // Autor : Brian Souza Dos Santos
 // Data : 12/09/2022
 // Seção de Declarações
